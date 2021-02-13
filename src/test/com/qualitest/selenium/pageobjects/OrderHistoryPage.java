@@ -1,4 +1,4 @@
-package PageObjects;
+package com.qualitest.selenium.pageobjects;
 
 import java.util.List;
 

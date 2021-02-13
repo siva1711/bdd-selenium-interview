@@ -5,12 +5,14 @@ import static org.junit.Assert.assertEquals;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import PageObjects.CartSummaryPage;
-import PageObjects.LaunchPage;
-import PageObjects.MyAccountPage;
-import PageObjects.OrderHistoryPage;
-import PageObjects.SearchResultsPage;
-import PageObjects.SignInPage;
+
+import com.qualitest.selenium.pageobjects.CartSummaryPage;
+import com.qualitest.selenium.pageobjects.LaunchPage;
+import com.qualitest.selenium.pageobjects.MyAccountPage;
+import com.qualitest.selenium.pageobjects.OrderHistoryPage;
+import com.qualitest.selenium.pageobjects.SearchResultsPage;
+import com.qualitest.selenium.pageobjects.SignInPage;
+
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

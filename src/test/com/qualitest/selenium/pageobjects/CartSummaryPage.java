@@ -1,4 +1,4 @@
-package PageObjects;
+package com.qualitest.selenium.pageobjects;
 
 import static org.junit.Assert.assertEquals;
 

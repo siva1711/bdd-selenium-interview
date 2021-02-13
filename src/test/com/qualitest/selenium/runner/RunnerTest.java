@@ -1,4 +1,4 @@
-package com.qualitest.selenium.Runner;
+package com.qualitest.selenium.runner;
 
 import org.junit.runner.RunWith;
 
