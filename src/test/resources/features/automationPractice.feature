@@ -20,8 +20,8 @@ Then order history should be displayed
 And validate order reference is displayed in order history
 
 Examples:
-	| userName			 | password   | productName |
-	| siv1008@gmail.com  | Password@1 | t-shirt	    |
+	| userName			  | password   | productName |
+	| sivatest@gmail.com  | testing    | t-shirt	    |
 	
 	
 Scenario Outline: Validate user is able too update the personal information
@@ -37,6 +37,6 @@ And I click save button
 Then update should be successful
 
 Examples:
-	| userName          | password   | newPassword  | firstName |
-	| siv1008@gmail.com | Password@1 | Password@1	| user      |
+	| userName           | password   | newPassword  | firstName |
+	| sivatest@gmail.com | testing    | testing    	 | user      |
 	
