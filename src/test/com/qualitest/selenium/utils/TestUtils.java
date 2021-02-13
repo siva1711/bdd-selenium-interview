@@ -1,4 +1,4 @@
-package com.qualitest.selenium.Utils;
+package com.qualitest.selenium.utils;
 
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;

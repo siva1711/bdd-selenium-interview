@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 import org.openqa.selenium.WebDriver;
-import com.qualitest.selenium.Utils.TestUtils;
+
+import com.qualitest.selenium.utils.TestUtils;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
