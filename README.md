@@ -10,7 +10,7 @@ Clone the project form below repository:
 
 ``https://github.com/siva1711/bdd-selenium-interview.git```
 Run the below command to build and download the dependencies required for the project
-`mvn clean install`
+`mvn clean`
 Note: Ensure Maven and Java are configured in local environmental variables 
 
 #### Pre-Requisite
